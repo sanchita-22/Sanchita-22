@@ -13,15 +13,10 @@ Currently, I'm focused on strengthening my programming and problem-solving skill
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,flask,git,github,vscode,latex&perline=8" />
+  <img src="https://cdn.simpleicons.org/canva" width="48" height="48" alt="Canva" />
 </p>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/canva" height="48" alt="Canva" />
-</p>
+
 ## Currently Learning
 
 Data Structures & Algorithms · Problem Solving · Python
-
-## Currently Learning
-
-Data Structures & Algorithms · Problem Solving
 
